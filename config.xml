@@ -10,10 +10,10 @@
 
         <preference name="phonegap-version" value="3.7.0" />
 
-        <name>Hotel App</name>
+        <name>sistema</name>
 
         <description>
-            Aplicación de Reservas de Hotel 
+            Sistema Solar
         </description>
 
         <author href="http://cenet.mx" email="you@youremail.com">
